@@ -1,2 +1,3 @@
-# my-first-repo
-Intro to version control and GitHub
+# My First Repository
+
+This is my first repository on GitHub!
